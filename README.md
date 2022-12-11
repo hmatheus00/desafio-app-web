@@ -1,2 +1,2 @@
 # desafio-app-web
-Desafio - Aplicação Wen
+Desafio - Aplicação Web
